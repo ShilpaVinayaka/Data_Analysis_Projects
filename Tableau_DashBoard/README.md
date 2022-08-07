@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Tableau_dashboard.png" height="auto" width="400" />
+<img src="Tableau_dashboard.png" height="auto"  />
 <br />
 
 </div>
